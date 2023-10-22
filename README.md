@@ -1,6 +1,6 @@
 ## Morpher Wiki
 
-![](https://github.com/DrowningDragons/Morpher/blob/master/MorpherLogo.png)
+![](https://raw.githubusercontent.com/DrowningDragons/Morpher/main/MorpherLogo.png)
 
 Morpher is a plugin designed to morphs character proportions.
 

@@ -1,4 +1,4 @@
-## Morpher Wiki
+# Morpher Wiki
 
 ![](https://raw.githubusercontent.com/DrowningDragons/Morpher/main/MorpherLogo.png)
 
